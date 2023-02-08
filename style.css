@@ -1,0 +1,99 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@font-face {
+    font-family: 'amor';
+    src: url('letras/berosedemo.ttf') format('truetype'); 
+}
+@import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(247, 234, 225)60%, rgb(230, 181, 152));   
+    margin: auto;
+}
+
+header {
+    
+    padding: 1px 0px 1px 0px;
+    width: 700px;
+    margin: auto;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #0b345891;
+    min-width: 320px;
+    max-width: 700px;
+    margin: auto;
+}
+
+main > p {
+    padding: 20px 5px 5px 0px;
+    text-indent: 30px;
+    text-align: justify;
+    min-width: 320px;
+    max-width: 700px;
+    margin: auto;
+}
+    
+h1 {
+    font-family: 'Lora', serif;
+    text-shadow: 1px 1px 5px rgb(245, 183, 147);
+}
+
+h2 {
+    font-family: 'Lora', serif;
+    color: #125189;
+}
+
+div { 
+    display: flex;
+    height: auto;
+    width: auto;
+    margin: auto;
+    font-weight: bold;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: 5px 5px 15px #0b345891;
+    padding: 5px 0px 3px 5px;
+    
+}
+ 
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    align-items: center;
+    margin: auto;
+} 
+
+.rodape {
+    margin-top: 30px;
+    background-color: rgba(165, 42, 42, 0.151);
+    color: white;
+    padding: 3px 0px 3px 0px;
+}
+.agradecimento {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.b {
+    display: flex;
+    gap: 20px;
+    background-color: #f0ddd2b7;
+}
+
+.b:hover {
+    background-color: #f0cebab7;
+    text-decoration: underline;
+}
+
+a {
+    color: #126997;
+    text-decoration: none;
+    font-family: 'Sarala', sans-serif;
+    text-shadow: 3px 3px 5px #0b345852;
+}
+
