@@ -6,6 +6,10 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
 
+* {
+
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
