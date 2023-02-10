@@ -11,6 +11,7 @@
 }
 
 body {
+    height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background-image: linear-gradient(to bottom, rgb(247, 234, 225)60%, rgb(230, 181, 152));   
