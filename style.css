@@ -11,16 +11,21 @@
 }
 
 body {
-    background-image: url('imagens/fundo1920.jpg');
+    background-image: url('imagens/fundo2-1920.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    img: opacity: 0.5;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-image: linear-gradient(to bottom, rgb(247, 234, 225)60%, rgb(230, 181, 152));   
+    /*background-image: linear-gradient(to bottom, rgb(247, 234, 225)60%, rgb(230, 181, 152));  */ 
     margin: auto;
 }
 
 header {
     padding: 1px 0px 1px 0px;
     width: 700px;
+    align-items: center;
     margin: auto;
 }
 
@@ -44,13 +49,16 @@ main > p {
 }
     
 h1 {
+    text-align: center;
+    margin: auto;
     font-family: 'Lora', serif;
     text-shadow: 1px 1px 5px rgb(245, 183, 147);
+    padding: 25px 0px 25px 0px;
 }
 
 h2 {
     font-family: 'Lora', serif;
-    color: #125189;
+    color: rgb(255, 150, 88);
 }
 
 div { 
@@ -75,7 +83,7 @@ div {
 
 .rodape {
     margin-top: 30px;
-    background-color: rgba(165, 42, 42, 0.151);
+    background-color: rgba(228, 149, 75, 0.664);
     color: white;
     padding: 3px 0px 3px 0px;
 }
