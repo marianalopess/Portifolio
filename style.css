@@ -61,6 +61,10 @@ h2 {
     color: rgb(255, 150, 88);
 }
 
+.h2 h2 {
+    color: rgb(250, 109, 28);
+}
+
 div { 
     display: flex;
     height: auto;
