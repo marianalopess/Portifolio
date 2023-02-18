@@ -71,6 +71,7 @@ div {
     align-items: center;
     box-shadow: 5px 5px 15px #0b345891;
     padding: 5px 25px 3px 5px;
+    border: 1px solid orangered;
 }
  
 .menu {
@@ -86,9 +87,13 @@ div {
     background-color: rgba(228, 149, 75, 0.664);
     color: white;
     padding: 3px 0px 3px 0px;
+    
 }
 .agradecimento {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    font-size: 1.2em;
+    
 }
 .b {
     display: flex;
