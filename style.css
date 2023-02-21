@@ -20,6 +20,7 @@ body {
     text-align: center;
     /*background-image: linear-gradient(to bottom, rgb(247, 234, 225)60%, rgb(230, 181, 152));  */ 
     margin: auto;
+    height: inherit;
 }
 
 header {
