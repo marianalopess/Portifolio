@@ -1,7 +1,7 @@
-# site-de-apresentacao
-Esse é o meu primeiro site! Disponibilizei um texto sobre a minha trajetória e as minhas redes sociais
+# Minha página de apresentação
+Essa é a minha primeira página! Disponibilizei um texto sobre a minha trajetória e as minhas redes sociais
 
-Acesse minha página AQUI:
+Acesse AQUI:
 
 ```
 https://marianalopess.github.io/site-de-apresentacao/
